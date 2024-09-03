@@ -47,7 +47,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+            "url": "https://res.cloudinary.com/dexdumfqy/image/upload/v1725364204/persona-lightshadow_iu1wze.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
