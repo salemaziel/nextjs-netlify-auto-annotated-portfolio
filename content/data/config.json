@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "http://res.cloudinary.com/dexdumfqy/image/upload/v1725364204/persona-lightshadow_iu1wze.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
