@@ -194,4 +194,5 @@ sections:
       text:
         textAlign: left
 metaTitle: Salem Aziel - Personal Portfolio
+metaDescription: Personal Website and portfolio for Salem Aziel
 ---
