@@ -26,7 +26,7 @@
             {
                 "type": "Link",
                 "label": "Resources",
-                "altText": "",
+                "altText": "resources",
                 "url": "/resources",
                 "showIcon": false,
                 "icon": "arrowRight",
